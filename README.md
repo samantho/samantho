@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sam Anthony</h1>
 <h3 align="center">An undergraduate at University of North Carolina at Chapel Hill studying Statistics & Analytics, Political Science, and Computer Science.</h3>
 <br>
-<img src="https://dh-prod-cdn.azureedge.net/-/media/property/destination-hotels/carolina-inn/1440x460/thecarolinainn_unc_oldwell-crpd1440x460.jpg?ts=6a8d1e6a-17bf-46b1-8937-9b90c62aeb13" alt="unc" width="full" height="auto"/> 
+<img src="uncChapelHill.jpg" alt="unc" width="full" height="auto"/> 
 <br>
 
 - 🔭 I’m currently working on **Analyzing US Economic Data with Python**

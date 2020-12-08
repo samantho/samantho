@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **My life's goal is to make the perfect fried rice**
 
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 

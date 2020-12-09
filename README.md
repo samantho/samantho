@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python for Data Science and AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samantho/](https://github.com/samantho/)
+- 👨‍💻 All of my projects are available at [https://github.com/samantho/Projects](https://github.com/samantho/Projects)
 
 - 📫 How to reach me **samanthahanthony@gmail.com**
 

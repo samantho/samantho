@@ -15,7 +15,7 @@
 - ⚡ Fun fact **My life's goal is to make the perfect fried rice**
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -48,3 +48,19 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>  
 </p>
+
+<br>
+<h2 aligh="left">Relevant Courses and Certificates:</h2>
+
+- <b>UNC Department of Statistics and Operations Research:</b> Data Science, Methods of Data Anaylsis, Intro to Data Models and Inference
+
+- <b>UNC Department of Computer Science:</b> Data Structures, Foundations of Programming, Discrete Structures, Systems Fundamentals, Intro to Programming, Fluency in Information Technology
+
+- <b>UNC Department of Political Science:</b> Data in Politics
+
+- <b>UNC Department of Geography:</b> Intro to Geographic Information
+
+- <b>DataCamp:</b> Introduction to Data Science in Python
+
+- <b>Udemy:</b> A-Z Machine Learning Using Azure Machine Learning (AzureML)
+<br>

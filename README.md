@@ -60,6 +60,8 @@
 
 - <b>UNC Department of Geography:</b> Intro to Geographic Information
 
+- <b>IBM:</b> Python for Data Science and AI
+
 - <b>DataCamp:</b> Introduction to Data Science in Python
 
 - <b>Udemy:</b> A-Z Machine Learning Using Azure Machine Learning (AzureML)

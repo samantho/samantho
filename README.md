@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sam Anthony</h1>
-<h3 align="center">An undergraduate at University of North Carolina at Chapel Hill studying Statistics & Analytics, Political Science, and Computer Science.</h3>
+<h3 align="center">An undergraduate at University of North Carolina at Chapel Hill studying Statistics & Analytics, Computer Science, and Data Science.</h3>
 <br>
 <img src="uncChapelHill.jpg" alt="unc" width="full" height="auto"/> 
 <br>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python for Data Science and AI**
 
-- 👨‍💻 All of my projects are available at [https://samantho.github.io/Projects/](https://samantho.github.io/Projects/)
+- 👨‍💻 All of my projects are available at [https://samantho.github.io/](https://samantho.github.io/)
 
 - 📫 How to reach me **samanthahanthony@gmail.com**
 

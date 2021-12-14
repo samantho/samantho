@@ -55,11 +55,15 @@
 <br>
 <h2 aligh="left">Relevant Courses and Certificates:</h2>
 
-- <b>UNC Department of Statistics and Operations Research:</b> Data Science, Methods of Data Anaylsis, Intro to Data Models and Inference
+- <b>UNC Department of Statistics and Operations Research:</b> Data Science, Methods of Data Anaylsis, Intro to Data Models and Inference, Probability for Data Science, Foundations of Statistics and Data Science, Optimization
 
-- <b>UNC Department of Computer Science:</b> Data Structures, Foundations of Programming, Discrete Structures, Systems Fundamentals, Intro to Programming, Fluency in Information Technology
+- <b>UNC Department of Computer Science:</b> Data Structures, Foundations of Programming, Discrete Structures, Systems Fundamentals, Intro to Programming, Fluency in Information Technology, Computer Organization, Modern Web Programming, Models of Languages and Computation
+
+- <b>UNC Department of Mathematics:</b> Calculus III, Linear Algebra for Applications
 
 - <b>UNC Department of Political Science:</b> Data in Politics
+
+- <b>UNC Department of Public Policy:</b> Quantitative Analysis for Public Policy
 
 - <b>UNC Department of Geography:</b> Intro to Geographic Information
 

@@ -55,9 +55,9 @@
 <br>
 <h2 aligh="left">Relevant Courses and Certificates:</h2>
 
-- <b>UNC Department of Statistics and Operations Research:</b> Data Science, Methods of Data Anaylsis, Intro to Data Models and Inference, Probability for Data Science, Foundations of Statistics and Data Science, Optimization
+- <b>UNC Department of Statistics and Operations Research:</b> Data Science, Methods of Data Anaylsis, Intro to Data Models and Inference, Probability for Data Science, Foundations of Statistics and Data Science, Stochastic Modeling, Optimization, Optimization for Machine Learning
 
-- <b>UNC Department of Computer Science:</b> Data Structures, Foundations of Programming, Discrete Structures, Systems Fundamentals, Intro to Programming, Fluency in Information Technology, Computer Organization, Modern Web Programming, Models of Languages and Computation
+- <b>UNC Department of Computer Science:</b> Data Structures, Foundations of Programming, Discrete Structures, Systems Fundamentals, Intro to Programming, Fluency in Information Technology, Computer Organization, Modern Web Programming, Models of Languages and Computation, Robotics, Machine Learning
 
 - <b>UNC Department of Mathematics:</b> Calculus III, Linear Algebra for Applications
 
